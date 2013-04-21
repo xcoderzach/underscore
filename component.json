@@ -8,7 +8,7 @@
   "main"          : "underscore.js",
   "version"       : "1.4.4",
   "scripts": [
-    "underscore.js",
+    "underscore.js"
   ]
   "license"       : "MIT"
 }
